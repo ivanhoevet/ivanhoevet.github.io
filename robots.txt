@@ -1,0 +1,6 @@
+User-agent: *
+
+Sitemap: http://www.ivanhoeeastvet.com.au/sitemap.xml
+
+Disallow: /boarding
+Disallow: /boarding.html
