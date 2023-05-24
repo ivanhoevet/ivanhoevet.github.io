@@ -1,0 +1,101 @@
+#ttm{
+  padding: 10px
+}
+
+#smap{
+    list-style: none;
+}
+
+
+#smap li a{
+      color: blue;
+}
+#uptotop{
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: #ffffff;
+      color: #796854;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 24px;
+  line-height: 1.8;
+  box-shadow: 0 0 4px black;
+  z-index: 9999;
+  cursor: pointer;
+}
+
+.chat-frame{
+  width: 100%;
+min-height: 600px;
+}
+
+
+
+.ast-advanced-headers .main-header-menu > li.current-menu-item > a, .ast-advanced-headers .main-header-menu >li.current-menu-ancestor > a, .ast-advanced-headers .main-header-menu > li.current_page_item > a {
+    color: #796854!important;
+}
+
+.ast-advanced-headers .main-header-menu, .ast-advanced-headers .main-header-menu > li > a, .ast-advanced-headers .ast-masthead-custom-menu-items, .ast-advanced-headers .ast-masthead-custom-menu-items a {
+    color: #796854!important;
+}
+
+.ast-advanced-headers .main-header-menu > li.current-menu-item > a, .ast-advanced-headers .main-header-menu >li.current-menu-ancestor > a, .ast-advanced-headers .main-header-menu > li.current_page_item > a:hover {
+    color: #796854!important;
+}
+
+
+.fl-node-5c3990641a891{
+    padding-top: 50px;
+}
+
+.fl-node-5c3990641ab79, .fl-node-5c3990641abb8, .fl-node-5c3994b4d8f09 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (max-width: 768px){
+  .fl-node-5c34535e2e6a1 .uabb-blog-posts .uabb-post-wrapper {
+      width: 100%;
+  }
+  .uabb-blog-posts .uabb-post-thumbnail img {
+      padding-top: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+  #uptotop{
+    display: none!important;
+  }
+  .ast-separate-container .ast-article-single {
+      padding: 10px!important;
+  }
+}
+
+.main-header-bar.ast-sticky-active {
+      margin-left: 0;
+}
+
+
+
+
+.main-header-bar-wrap{
+	background: rgba(255, 255, 255, 0.53);
+}
+
+
+.ast-sticky-main-shrink.ast-header-break-point .ast-sticky-shrunk .site-branding {
+    margin-top: 1rem;
+}
+
+
+.fl-node-601a1bec997ae > .fl-col-content,
+.fl-node-5e1ed4768e782 > .fl-col-content,
+.fl-node-5f472e2ee88f3 > .fl-col-content,
+
+.fl-node-5f472d09f0c1a > .fl-col-content,
+.fl-node-5df06f444c954 > .fl-col-content {
+  min-height: 400px;
+}
